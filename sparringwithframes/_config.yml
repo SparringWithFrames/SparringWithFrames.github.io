@@ -23,7 +23,7 @@ email: sparringwithframes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Independent Game Development
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "SparringWithFrames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "sparringwithframes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SparringWithFrames
 github_username:  SparringWithFrames
 
