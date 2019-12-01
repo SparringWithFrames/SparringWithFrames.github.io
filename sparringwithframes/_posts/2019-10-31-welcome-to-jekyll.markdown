@@ -1,29 +1,7 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: postcustom
+title:  "Let Me Introduce Myself"
 date:   2019-10-31 15:42:31 -0400
-categories: jekyll update
+categories: games
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Hey there! Welcome to Sparring With Frames. My name is Chris Carpenter, and I'm currently a solo developer interested in making games with qualities similar to what you can find in immersive sims. After graduating with a degree in Comp Sci from VCU, I entered the world of enterprise application development as a full stack developer. However, like many others, my heart just wasn't into the shoebox day to day that comes with working on CRUD applications, where intellectual creativity is often sidelined in favor of the bottom line. In August, I made the decision to take my savings and embark on this journey. I hope to challenge myself and my weaknesses on a daily basis and ultimately grow as an individual. This is why I chose to name my personal studio "Sparring With Frames". My first public facing game will be released at the conclusion of the 2019 Game Off, GitHub's annual game jam, through open source (Hit the github icon in the footer) and itch.io. Going forward over the next year, everything I make will follow this open source format and I'll be providing development updates and post mortems on this website, so if you're interested in my style be sure to hit the bird down below.  
