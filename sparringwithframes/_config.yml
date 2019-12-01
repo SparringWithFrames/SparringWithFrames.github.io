@@ -21,7 +21,7 @@
 title: Sparring With Frames
 email: sparringwithframes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Independent game development exploring the immersive sim genre
+  Independent Game Development
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "SparringWithFrames.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SparringWithFrames
