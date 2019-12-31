@@ -5,7 +5,7 @@ date:   2019-12-31 15:35:29 -0500
 categories: games
 ---
 
-![And away we go...](/assets/img/mindthechaincover.png)
+![And away we go...](/assets/img/mindthechaincover.PNG)
 
 I would say one of the most striking things that I noticed throughout development of Mind the Chain was just how far apart my iterations were between designing the game and the actual engineering aspects required to make that a reality.
 When the jam started and the theme revealed, my original idea involved a completely physics based chain latched onto the main character from a singular point in the environment. The main gameplay loop would involve using the chain to solve physics based puzzles, 
