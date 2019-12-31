@@ -21,14 +21,14 @@
 title: Sparring With Frames
 email: sparringwithframes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Independent Game Development
+  Indepenent Game Development
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "sparringwithframes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: SparringWithFrames
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: FramesWith
 github_username:  SparringWithFrames
 
 # Build settings
-remote_theme: broccolini/swiss
+theme: minima
 plugins:
   - jekyll-feed
 
